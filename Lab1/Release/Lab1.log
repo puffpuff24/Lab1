@@ -1,0 +1,25 @@
+﻿  main.cpp
+  tasks.cpp
+tasks.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+tasks.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+tasks.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+tasks.cpp(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(84): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+tasks.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+tasks.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+tasks.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+tasks.cpp(149): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+tasks.cpp(149): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+tasks.cpp(166): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+  Generating code
+  0 of 19 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab1.vcxproj -> D:\Work\Projects\Lab1\Release\Lab1.exe
+  Lab1.vcxproj -> D:\Work\Projects\Lab1\Release\Lab1.pdb (Full PDB)
